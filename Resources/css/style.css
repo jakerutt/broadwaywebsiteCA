@@ -1,0 +1,6 @@
+body {font-family: helvitica;text-align: center;}
+.menu {background-image: src="resources/images/the-flatiron-building.png"; font-size: 18px; }
+#bd {font-size: 70px; font-weight: bold; color: white;}
+#process {font-size: 32px; font-weight: bold;}
+h2 {font-size: 23px; font-weight: bold;}
+p {font-size: 14px; }
